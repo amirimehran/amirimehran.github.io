@@ -1,0 +1,48 @@
+* HOME
+home__social
+https://www.linkedin.com/in/yourusername
+https://github.com/yourusername
+https://twitter.com/yourusername
+
+home__description
+Full-Stack Developer and Automation Engineer with strong experience in backend systems, scalable web applications, and performance optimization. I build secure, efficient, and business-focused digital solutions.
+
+
+* ABOUT
+about__description
+I am a Full-Stack Developer with 6+ years of experience in web technologies, backend architecture, and system automation. I specialize in PHP, Python, MySQL, JavaScript, and Linux server environments. I focus on clean code, system security, and building scalable platforms that solve real-world business problems.
+
+about__info-name
+6+ <br> Years Experience
+25+ <br> Completed Projects
+10+ <br> Clients & Companies
+
+
+* SERVICES
+services__modal-service
+Full-Stack Web Application Development.
+Backend API Development & Database Architecture.
+Automation Systems & Bot Integration.
+Server Setup, Optimization & Security Hardening.
+
+
+* PORTFOLIO
+portfolio__description
+Modern, responsive, and scalable web applications with clean architecture, optimized performance, and secure backend systems.
+
+
+* PROJECT
+project__description
+Have a project in mind? Let’s build something powerful, scalable, and secure together.
+
+
+* TESTIMONIAL
+testimonial__description
+I deliver high-quality, reliable, and scalable solutions with strong attention to performance, security, and long-term maintainability.
+
+
+* FOOTER
+footer__social
+https://github.com/yourusername
+https://www.linkedin.com/in/yourusername
+https://twitter.com/yourusername
